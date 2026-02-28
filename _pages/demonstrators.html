@@ -1,0 +1,15 @@
+---
+layout: archive
+title: "Demonstrators & Technical Videos"
+permalink: /demonstrators/
+author_profile: true
+---
+
+{% include base_path %}
+
+{% comment %}
+Loop over the demonstrators collection and include each item
+{% endcomment %}
+{% for post in site.demonstrators reversed %}
+  {% include archive-single.html post=post %}
+{% endfor %}
