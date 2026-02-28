@@ -1,7 +1,7 @@
 ---
 title: "Invited Talk at Mondragon University — From Research to Real-World Mobile Robotics"
-event: "Graduate Programme in Robotics"
-location: "Mondragon University, Basque Country, Spain"
+venue: "Graduate Programme in Robotics Mondragon University"
+location: "Mondragon, Basque Country, Spain"
 date: 2023-02-14
 ---
 

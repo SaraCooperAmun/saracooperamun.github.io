@@ -1,6 +1,6 @@
 ---
 title: "Invited Talk at HEART-MET Workshop (ICSR 2022)"
-event: "HEART-MET Workshop — ICSR 2022"
+venue: "HEART-MET Workshop — ICSR 2022"
 location: "Florence, Italy"
 date: 2022-12-14
 ---

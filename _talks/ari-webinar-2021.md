@@ -1,6 +1,7 @@
 ---
 title: "ARI Webinar 2021 — Get Started with ARI"
-event: "PAL Robotics Webinar"
+venue: "PAL Robotics Webinar"
+location: "Online"
 date: 2021-04-27
 ---
 

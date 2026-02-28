@@ -1,7 +1,7 @@
 ---
 title: "Invited Talk at EMERGENCE Summer School – University of Nottingham"
-event: "EMERGENCE Summer School 2024"
-location: "University of Nottingham"
+venue: "EMERGENCE Summer School 2024"
+location: "University of Nottingham, UK"
 date: 2024-09-05
 ---
 

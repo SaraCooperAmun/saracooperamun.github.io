@@ -1,7 +1,7 @@
 ---
 title: "Invited Talk at WSIS&SDG TalkX — International Day of Persons with Disabilities"
-event: "WSIS Forum 2024 (Session 113)"
-location: "Virtual"
+venue: "WSIS Forum 2024 (Session 113)"
+location: "Online"
 date: 2023-12-14
 ---
 
