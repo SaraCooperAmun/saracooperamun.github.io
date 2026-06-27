@@ -5,11 +5,28 @@ permalink: /demonstrators/
 author_profile: true
 ---
 
-{% include base_path %}
-
-{% comment %}
-Loop over the demonstrators collection and include each item
-{% endcomment %}
 {% for post in site.demonstrators reversed %}
-  {% include archive-single.html post=post %}
+
+  <div class="card">
+
+    <h3>
+      <a href="{{ post.url | relative_url }}">
+        {{ post.title }}
+      </a>
+    </h3>
+
+    {% if post.venue %}
+      <p><strong>Venue:</strong> {{ post.venue }}</p>
+    {% endif %}
+
+    {% if post.date %}
+      <p><strong>Date:</strong> {{ post.date | date: "%Y-%m-%d" }}</p>
+    {% endif %}
+
+    {% if post.excerpt %}
+      <p>{{ post.excerpt }}</p>
+    {% endif %}
+
+  </div>
+
 {% endfor %}
