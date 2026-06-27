@@ -11,7 +11,7 @@ date: 2020-01-01
 
 ## Introduction
 
-During my work as a robotics software engineer and technical expert for ARI at PAL Robotics(2020–2023), I contributed to the development, integration, and deployment of the ARI social robot across multiple healthcare and assistive robotics projects.
+During my work as a robotics software engineer and technical expert for ARI at PAL Robotics (2020–2023), I contributed to the development, integration, and deployment of the ARI social robot across multiple healthcare and assistive robotics projects.
 
 My responsibilities included supporting product management, defining technical requirements, and acting as technical contact for EU and national projects such as AMIBA, SPRING, and SHAPES. I also participated in demonstrations at conferences and industry events, showcasing ARI’s capabilities in real-world scenarios.
 
@@ -31,12 +31,12 @@ Key characteristics include:
 
 ARI was used as the main robotic platform in several European research projects, including SHAPES.
 
-Related publications:  
-["ARI: the Social Assistive Robot and Companion"](/publications/2020-08-ari)
+Related publication:  
+["ARI: the Social Assistive Robot and Companion"](/publication/2020-08-ari)
 
-["Challenges of deploying assistive robots in real-life scenarios: an industrial perspective"](/publications/2023-08-challenges)
+["Challenges of deploying assistive robots in real-life scenarios: an industrial perspective"](/publication/2023-08-challenges)
 
-Asides EU projects, I also worked on ROS4HRI and the dialogue pipeline of the robot, see more details here ["Open-source natural language processing on the pal robotics ari social robot"](/publications/2023-03-nlp-ari)
+Asides EU projects, I also worked on ROS4HRI and the dialogue pipeline of the robot, see more details here ["Open-source natural language processing on the pal robotics ari social robot"](/publication/2023-03-nlp-ari)
 
 ---
 
@@ -81,7 +81,7 @@ My responsibilities included:
 - Software development using ROS2 for system integration  
 - Development of ARI’s WebGUI using JavaScript and Python  
 - Design and implementation of Behaviour Tree–based architectures for robot decision-making, see related publication
-["Towards using Behaviour Trees for long-term social robot behaviour"](/publications/2022-03-behavior)
+["Towards using Behaviour Trees for long-term social robot behaviour"](/publication/2022-03-behavior)
 - Integration of external services into the robot ecosystem  
 
 In parallel, I contributed to co-design activities with end-users and stakeholders:
@@ -122,7 +122,7 @@ Related article:
 https://shapes2020.eu/2023/02/24/pal-robotics-social-robot-aris-use-cases/
 
 Related publication:  
-["Social robotic application to support active and healthy ageing"](/publications/2021-08-shapes)
+["Social robotic application to support active and healthy ageing"](/publication/2021-08-shapes)
 
 
 <iframe width="560" height="315"
@@ -144,7 +144,7 @@ These activities supported:
 - Structured engagement in care environments  
 
 See related publication at 
-["Assistive technologies for supporting wellbeing of older adults](/publications/2021-06-assitive)
+["Assistive technologies for supporting wellbeing of older adults](/publication/2021-06-assitive)
 
 <iframe width="560" height="315"
   src="https://www.youtube.com/embed/6wlIv5r3hqY"
@@ -175,7 +175,7 @@ In this project, ARI was explored as a robotic assistant to support staff and us
 My contribution included both technical development and user-centered design work. I worked on the development of the application deployed on ARI and supported the implementation of interaction behaviours for the pilot. I also contributed to the co-design process, including on-site visits, engagement with caregivers and users, and iterative refinement of the robot’s behaviour based on feedback from real-world deployments.
 
 Related publication:  
-["Towards the deployment of a social robot at an elderly day care facility"](/publications/2022-12-amiba)
+["Towards the deployment of a social robot at an elderly day care facility"](/publication/2022-12-amiba)
 
 ---
 

@@ -17,9 +17,9 @@ Over the course of a year at Honda Research Institute Japan, I worked on the dev
 
 Related publications:
 
-- ["Design of social features for robot-mediated cross-cultural interaction"](/publications/2024-03-social-features)
+- ["Design of social features for robot-mediated cross-cultural interaction"](/publication/2024-03-social-features)
 
-- ["Design of embodied mediator haru for remote cross cultural communication"](/publications/2024-05-haru)
+- ["Design of embodied mediator haru for remote cross cultural communication"](/publication/2024-05-haru)
 
 Further details on the platform can be found here:  
 https://www.jp.honda-ri.com/en/activity/haru-the-social-robot/
