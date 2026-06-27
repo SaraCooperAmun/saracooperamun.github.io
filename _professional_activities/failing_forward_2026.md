@@ -1,5 +1,5 @@
 ---
-title: "Failing Forward Workshop – Design and Deployment Lessons from Real-World HRI"
+title: "HRI 2026: Failing Forward Workshop – Design and Deployment Lessons from Real-World HRI"
 venue: "HRI 2026, Edinburgh, United Kingdom"
 location: "Edinburgh, United Kingdom"
 date: 2026-03-16

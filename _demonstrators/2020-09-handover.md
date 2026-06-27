@@ -7,7 +7,7 @@ location: "Remote"
 date: 2020-09-09
 ---
 
-![EEG human-robot handover experiment](/images/eeg_handover_ichms_2020.jpg){: width="400px" }
+![EEG human-robot handover experiment](/images/eeg_handover.png){: width="400px" }
 
 ### Overview
 

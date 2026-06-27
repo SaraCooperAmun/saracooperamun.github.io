@@ -1,5 +1,5 @@
 ---
-title: "PubRob-Fails 2025 Workshop"
+title: "RO-MAN 2025: PubRob-Fails Workshop"
 venue: "RO-MAN 2025, Naples, Italy"
 location: "Naples, Italy"
 date: 2025-08-29
