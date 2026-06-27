@@ -13,5 +13,14 @@ citation: 'Cooper, S., Pou, B., Mayoral-Macau, A., Redondo, A., Rios, D., & Ros,
 The EMOROBCARE project aims at developing a low-cost, expressive social robot designed to support therapy for children with Autism Spectrum Disorder. This paper presents the system software design and development tools. We illustrate an example use case game that combines perception, speech, reasoning, and expressive capabilities of the robot. Additional games will be developed through co-design with therapists in order to foster communication and emotional expression.
 
 ### Poster Presentation
+
 ![EMOROBCARE Poster Presentation](/images/icsr_emorobcare_poster.jpeg)  
 Presentation of the EMOROBCARE project at **ICSR 2025**, showing the poster and discussing the system with conference attendees.
+
+## Demo video
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;">
+  <iframe src="https://www.youtube.com/embed/JYanpTaSM18"
+  style="position: absolute; top:0; left:0; width:100%; height:100%;"
+  frameborder="0" allowfullscreen></iframe>
+</div>

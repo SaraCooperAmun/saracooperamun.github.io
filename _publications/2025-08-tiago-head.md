@@ -13,5 +13,6 @@ citation: 'Cooper, S., Lemaignan, S., Ros, R., Ferrini, L., Gebellí, F., Jurič
 This paper presents the TIAGo Head, a new tabletop social robot from PAL Robotics, focusing on its capabilities as an HRI platform. We detail the robots’ hardware, highlighting its sensors/actuators and on-board computing; and its software architecture, including social perception, expressive face, a knowledge base, and integration with large language models (LLMs) for natural conversations. We also describe a use-case in a receptionist scenario where TIAGo Head dynamically interacts with travelers by displaying news and conversing.
 
 ### Presentation
+
 ![TIAGo Head Full Presentation at RO-MAN 2025](/images/roman_2025_tiago_head.jpeg)  
 Full-length presentation of **TIAGo Head** at **RO-MAN 2025**, demonstrating the robot’s expressive, interactive, and conversational capabilities to conference attendees.

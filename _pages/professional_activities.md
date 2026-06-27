@@ -8,6 +8,55 @@ This section highlights **workshops and conference activities that I have organi
 
 ---
 
+### HRI 2026 Industry Chair – Industry Day
+**Location:** HRI 2026, Edinburgh, United Kingdom  
+**Role:** Industry Chair  
+
+![HRI 2026 Industry Day](/images/sara_industry_day.jpg){: width="400px" }
+
+Returning this time as part of the Organizing Committee and serving as **Industry Chair** for HRI 2026 was a particularly meaningful experience, aligning closely with my long-term goal of strengthening the connection between academia and industry in human–robot interaction.
+
+A key message throughout the event was the urgent need to build stronger bridges between research and real-world deployment. While HRI research continues to advance rapidly, the central challenge remains translating these insights into practical systems that are deployed in healthcare, education, and public environments. Without close collaboration between academia and industry, there is a risk of a growing gap between what is possible in research and what is impactful in practice.
+
+Industry Day at HRI 2026 aimed to directly address this challenge. In its second edition, we introduced a new milestone: the first **Industry White Papers**, helping structure discussions around key themes such as robot design, deployment, and adoption across different sectors.
+
+The day included:
+- Industry white paper presentations  
+- Talks from HRI industry partners, including Familiar Machines & Magic, Semio, Peerbots, PlaiPin, and Furhat Robotics  
+- Panel discussions on real-world challenges in deployment and adoption  
+- Poster sessions and open discussions fostering exchange between academia and industry  
+
+![HRI 2026 Industry Poster Session](/images/industry_poster_session.jpeg){: width="400px" }
+
+These sessions enabled rich discussions between researchers and practitioners, creating new connections and perspectives on real-world HRI systems.
+
+Thanks to all speakers and contributors, including Richard Solly, Hannah Pelikan, Saad Elbeleidy, Natalie Yeo, Alina Gasser, Bahar İrfan, Ross Mead, Alexandre Colle, Gabriel Skantze, and Gianlorenzo De Santis.
+
+I am hopeful that this is only the beginning of closer and more impactful collaboration between industry and academia. I strongly encourage participation in **Industry Day at HRI 2027 in Silicon Valley**, where these discussions will continue to grow.
+
+---
+
+### Failing Forward: Design and Deployment Lessons from Real-World Human–Robot Interaction (HRI 2026 Workshop)
+**Location:** HRI 2026, Edinburgh, United Kingdom  
+**Role:** Co-organizer  
+**Link:** https://dl.acm.org/doi/10.1145/3776734.3788830  
+
+![Failing Forward Workshop HRI 2026](/images/failing_forward_hri.jpg){: width="400px" }
+
+This workshop was a continuation of our previous RO-MAN 2025 workshop held in Eindhoven on real-world human–robot interaction, and focused on the increasing importance of understanding **failures, unexpected outcomes, and deployment challenges** as robotic systems move from laboratory settings into real-world environments.
+
+As the technology readiness level of robotic systems increases, these systems interact with real users in realistic application contexts at increasing scale. In such real-world HRI, failures and unexpected outcomes are common, and these can provide valuable lessons for the design and evaluation of future systems.
+
+Building on prior workshops on Human–Robot Interaction in Extreme and Challenging Environments (HRI 2025) and Real-World HRI in Public and Private Spaces (RO-MAN 2025), this half-day workshop invited researchers and practitioners to share design and deployment lessons across the full lifecycle of real-world HRI systems.
+
+The workshop followed a structured taxonomy of deployment phases and key influencing factors, encouraging participants to critically reflect on their own systems, identify challenges, and share practical experiences. The goal was to refine this taxonomy into an open-source resource to support future HRI research and deployment practices.
+
+**Co-organizers included:**  
+Leimin Tian, Ana Kirschbaum, Caterina Neef, Mary Ellen Foster, Sara Cooper, Frauke Zeller, Manuel Giuliani, Alexander Eberhard, Oliver Chojnowski, Nils Mandischer, Utku Norman, Jan Ole Rixen, Pamela Carreno-Medrano, Nick Hawes, and Dana Kulić.
+
+---
+
+
 ### PubRob-Fails 2025 Workshop
 **Location:** RO-MAN 2025, Naples, Italy  
 **Role:** Co-organizer  
