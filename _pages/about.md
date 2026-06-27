@@ -11,7 +11,7 @@ redirect_from:
 
 I am a **robotics software and biomedical engineer** working in social robotics and human–robot interaction, with a focus on developing user-centred systems for healthcare, assistive technologies, and real-world deployment.
 
-I am currently a **Research Scientist at IIIA-CSIC**, in Barcelona, Spain - where we have started our [SocalMinds robotics lab](https://socialminds.iiia.csic.es/)), where I work on the development of low-cost social robots for autism therapy, combining robotics, AI, and human-centred design.
+I am currently a **Research Scientist at IIIA-CSIC**, in Barcelona, Spain, where we have started our [SocialMinds Robotics Lab](https://socialminds.iiia.csic.es/). I work on the development of low-cost social robots for autism therapy, combining robotics, AI, and human-centred design.
 
 ---
 

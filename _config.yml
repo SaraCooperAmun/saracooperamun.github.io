@@ -218,9 +218,6 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
-custom_css:
-  - /assets/css/custom.scss
-
 # These settings control the types of collections used by the template
 collections:
   demonstrators:
