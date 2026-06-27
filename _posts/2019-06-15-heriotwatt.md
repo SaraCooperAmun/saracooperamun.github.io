@@ -13,8 +13,8 @@ A feature on my MSc journey at **Heriot-Watt University**, highlighting my trans
 The post highlights:
 
 - My experiences during the **MSc Robotics program** (2018–2019)  
-- Group projects using **Clearpath’s Husky** for rescue missions and navigation/manipulation integration  
-- Skills in **robot programming, ROS, navigation, and manipulation**  
-- Reflection on how the MSc program shaped my **career in social and assistive robotics**  
+- Group projects using Clearpath’s Husky for rescue missions and navigation/manipulation integration  
+- Skills in robot programming, ROS, navigation, and manipulation  
+- Reflection on how the MSc program shaped my career in social and assistive robotics  
 
 Read the full post here: [Heriot-Watt University – Meet Our Students](https://www.hw.ac.uk/study/why-study-at-heriot-watt/meet-our-students/postgraduate-students/sara-cooper)

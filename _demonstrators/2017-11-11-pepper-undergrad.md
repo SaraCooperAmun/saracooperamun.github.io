@@ -10,31 +10,55 @@ date: 2018-06-01
 ![Pepper Robot Rehabilitation](/images/sarapepper.jpg){: width="400px" }
 
 ### Overview
-During my **final-year undergraduate Erasmus+ research project** at **Mondragon University (2017–2018)**, I had my first hands-on experience with robotics.  
 
-The project focused on developing **rehabilitation and cognitive games for older adults** using **SoftBank Robotics’ Pepper robot**, aimed at supporting cognitive exercises and engagement in elderly users with mild cognitive impairments.
+Final-year undergraduate Erasmus+ research project (2017–2018) focused on developing a socially assistive robotic system for cognitive rehabilitation in older adults using the SoftBank Robotics Pepper robot.
 
-This project was formative in motivating my career in **social and assistive robotics**, particularly in healthcare applications.
+The system was designed to support cognitive stimulation and engagement through interactive games targeting elderly users with mild cognitive impairment.
 
----
-
-### My Contribution
-I was responsible for:
-
-- **Software development for Pepper** using **Python and Javascript**  
-- Integrating the robot with a **MySQL database** for patient data collection and identification  
-- Developing a **web interface** with Django for caregivers to track patient progress  
-- Implementing **gesture recognition** with the **3D Intel Euclid Developer Kit**  
-- Preparing **ethical approval documentation** for testing with elderly users  
-- Conducting **initial user tests**, which showed very positive engagement
-
-**Technical skills demonstrated:** robot programming, database integration, web development, gesture recognition, HRI design, ethical research practices.
+The project combined human–robot interaction, web technologies, and sensing integration to build an end-to-end rehabilitation demonstrator involving both patients and caregivers.
 
 ---
 
-### Project Videos
+### System Description
 
-#### Pepper Robot Cognitive Games
+The demonstrator consisted of three main components:
+
+- Pepper robot interface for delivering cognitive games and interaction  
+- Caregiver web platform (Django-based) for monitoring users and managing sessions  
+- Backend database (MySQL) for storing patient profiles and interaction logs  
+- Gesture recognition module using the Intel Euclid 3D sensing kit  
+
+Together, these components formed a closed-loop system where caregivers could assign tasks and patients could interact with the robot through structured cognitive exercises.
+
+---
+
+### Demonstration
+
+The system supported several interactive rehabilitation scenarios:
+
+- Memory and attention-based cognitive games delivered by Pepper  
+- Gesture-based interaction for accessibility  
+- Session tracking for caregivers  
+- Adaptive engagement based on user responses  
+
+Preliminary user tests with older adults showed positive engagement, particularly with the robot-led game interactions.
+
+---
+
+### Technical Contributions
+
+- Robot programming using Python and JavaScript (Pepper SDK)  
+- Web application development using Django  
+- Database design and integration with MySQL  
+- Gesture recognition using Intel Euclid  
+- System integration across robot, web, and sensing components  
+- Ethics documentation for user testing with older adults  
+
+---
+
+### Media
+
+#### Cognitive Rehabilitation Games on Pepper
 
 <iframe width="560" height="315"
   src="https://www.youtube.com/embed/iX71ww66j4k"
@@ -44,11 +68,11 @@ I was responsible for:
   allowfullscreen>
 </iframe>
 
-#### Caregiver Web Interface
+#### Caregiver Monitoring Interface
 
 <iframe width="560" height="315"
   src="https://www.youtube.com/embed/A9DuPG-YNr4"
-  title="Web Interface for Patient Tracking"
+  title="Caregiver Web Interface Demo"
   frameborder="0"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen>
@@ -56,18 +80,13 @@ I was responsible for:
 
 ---
 
-### Code & Documentation
-The full **code, integration details, and explanation** are available on GitHub:  
-[GitHub — Pepper Cognitive Rehab](https://github.com/SaraCooperAmun/cognitive-rehab-pepper)  
+### Resources
 
-Project manuscript detailing methods, implementation, and evaluation:  
-[PDF Manuscript](/files/cognitive_rehab.pdf)  
+- Code repository: https://github.com/SaraCooperAmun/cognitive-rehab-pepper  
+- Project manuscript: /files/cognitive_rehab.pdf  
 
 ---
 
-### Technical Highlights
-- Human–robot interaction design for **elderly cognitive engagement**  
-- Multi-modal integration: speech, gestures, web interface, and database  
-- Caregiver-facing **web interface** for tracking patient progress and adding data  
-- Demonstrates **end-to-end system development** for healthcare applications  
-- Early experience with **research ethics and user testing**
+### Impact
+
+This project provided an early exploration of socially assistive robotics in healthcare, combining interaction design, sensing, and system integration. It informed later research directions in human–robot interaction and assistive systems for older adults.

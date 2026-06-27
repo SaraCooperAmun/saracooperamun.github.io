@@ -6,6 +6,7 @@ permalink: /publication/2025-08-tiago-head
 date: 2025-08-25
 venue: 'RO-MAN'
 bibtexurl: '/files/bibtex11.bib'
+slidesurl: 'https://saracooperamun.github.io/saracooper.github.io/files/roman_2025_tiago_slides.pdf'
 paperurl: '/files/cooper2025tiago.pdf'
 citation: 'Cooper, S., Lemaignan, S., Ros, R., Ferrini, L., Gebellí, F., Juričić, L., ... & Ferro, F. (2025) &quot;TIAGo Head: an AI Powered Platform for Social Robotics.&quot; <i>2025 34th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)</i>. (pp. 1099-1106). IEEE.'
 ---
@@ -15,4 +16,4 @@ This paper presents the TIAGo Head, a new tabletop social robot from PAL Robotic
 ### Presentation
 
 ![TIAGo Head Full Presentation at RO-MAN 2025](/images/roman_2025_tiago_head.jpeg)  
-Full-length presentation of **TIAGo Head** at **RO-MAN 2025**, demonstrating the robot’s expressive, interactive, and conversational capabilities to conference attendees.
+Full-length presentation of TIAGo Head at RO-MAN 2025, demonstrating the robot’s expressive, interactive, and conversational capabilities to conference attendees.

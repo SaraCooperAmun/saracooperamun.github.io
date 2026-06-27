@@ -10,24 +10,39 @@ date: 2019-06-01
 ![Husky Robot with Dual Grippers](/images/husky_rescue.png){: width="300px" }
 
 ### Overview
-During my **MSc in Robotics at Heriot-Watt University (2018–2019)**, I participated in an interactive program with multiple **group projects**, which served as my major introduction to robotics after a background in biomedical engineering.  
 
-One of my projects involved using **Clearpath’s Husky robot equipped with two dual UR5 grippers** to perform **simulated rescue missions**, navigating to specific areas and picking up limpets in a controlled environment.
+MSc Robotics project completed at Heriot-Watt University (2018–2019) as part of a set of group-based robotics modules introducing autonomous systems, manipulation, and mobile robotics.
 
-This project was part of the **ORCA Hub initiative**, focusing on underwater robotics and collaborative autonomy.
+The project focused on simulated rescue missions using a Clearpath Husky mobile robot equipped with dual UR5-based grippers. The system was designed to navigate to target locations and perform object retrieval (limpet collection) in a controlled environment.
+
+This work was conducted within the context of the ORCA Hub initiative, focusing on autonomous systems for challenging and remote environments.
 
 ---
 
-### My Contribution
-I contributed to:
+### System Description
 
-- **Robot navigation** using ROS-based autonomy  
-- **Manipulator control** for picking and placing objects (dual grippers)  
-- **Integration of navigation and manipulation** in a simulated rescue scenario  
-- Collaborative work within a **group-based MSc project**, including planning, testing, and debugging  
+The demonstrator combined mobile navigation and manipulation in a unified robotic pipeline:
 
-Code for grasping is [available at Github](https://github.com/SaraCooperAmun/Dual_Husky_Grasping).
-Video demonstration of the project:
+- ROS-based navigation for autonomous mobility in structured environments  
+- Dual-arm manipulation for object grasping and placement  
+- Integration of perception, navigation, and manipulation in a single system  
+- Simulation of rescue-style missions requiring task-level coordination  
+
+The system demonstrated coordinated execution of navigation and manipulation tasks under structured mission constraints.
+
+---
+
+### Contributions
+
+- ROS-based navigation stack configuration and testing  
+- Manipulator control for dual-gripper grasping and placement  
+- Integration of navigation and manipulation pipelines  
+- Debugging and validation in simulation-based rescue scenarios  
+- Collaborative development within a group MSc robotics project  
+
+---
+
+### Demonstration
 
 <iframe width="560" height="315"
   src="https://www.youtube.com/embed/qf7TPQp0qIU"
@@ -39,6 +54,13 @@ Video demonstration of the project:
 
 ---
 
+### Resources
+
+- Code (grasping module): https://github.com/SaraCooperAmun/Dual_Husky_Grasping  
+
+---
+
 ### Recognition
-Featured in **Heriot-Watt University news**:  
-[Meet Our Students – Sara Cooper](https://www.hw.ac.uk/study/why-study-at-heriot-watt/meet-our-students/postgraduate-students/sara-cooper)
+
+Featured in Heriot-Watt University student profile:
+https://www.hw.ac.uk/study/why-study-at-heriot-watt/meet-our-students/postgraduate-students/sara-cooper

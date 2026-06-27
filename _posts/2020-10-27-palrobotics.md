@@ -12,9 +12,9 @@ A profile on my research journey, career motivation, and work on **social and as
 
 The post highlights:
 
-- My path from **biomedical engineering to social robotics**  
-- How **assistive robotics for healthcare** shapes my research  
-- Insights on how **personal experiences and disability** influenced my career  
-- Projects like **ARI**, **SHAPES**, and **SIMBIOTS**  
+- My path from biomedical engineering to social robotics
+- How assistive robotics for healthcare shapes my research  
+- Insights on how personal experiences and disability influenced my career  
+- Projects like ARI, SHAPES, and **SIMBIOTS
 
 Read the full post here: [PAL Robotics Blog](https://pal-robotics.com/blog/research-in-hri-and-robotics-for-healthcare/)

@@ -10,31 +10,42 @@ date: 2018-12-01
 ![TurtleBot SLAM](/images/turtlebot_slam.png){: width="300px" }
 
 ### Overview
-This was my **first group robotics project** during the MSc in Robotics at **Heriot-Watt University (2018–2019)**. The goal was to develop a **rescue mission system** using a TurtleBot:
 
-- Build a **map of the environment** (SLAM)  
-- Navigate **autonomously** to multiple goal locations  
-- Detect **markers/objects** along the way  
-- Integrate object positions into the generated map  
+First group robotics project during the MSc in Robotics at Heriot-Watt University (2018–2019), focused on developing a rescue-oriented autonomous navigation system using a TurtleBot platform.
 
-Simulation was performed in **Gazebo**, with testing on a real TurtleBot. The project focused on combining **autonomous navigation** with **object recognition** for potential applications in search-and-rescue.
+The system combined SLAM-based mapping, autonomous navigation, and object detection to enable the robot to explore an environment, build a map, and identify relevant objects during navigation.
 
-This project was conducted by **AUDRY Hanako, Sara Cooper, and OLADIPUPO Gideon**.
+Experiments were conducted in Gazebo simulation and validated on a physical TurtleBot platform, focusing on the integration of perception and navigation for search-and-rescue scenarios.
+
+The project was developed collaboratively by AUDRY Hanako, Sara Cooper, and OLADIPUPO Gideon.
 
 ---
 
-### My Contribution
-I contributed to:
+### System Description
 
-- **Integration of SLAM, AMCL localization, and move_base navigation** for autonomous movement  
-- Implementation of **object detection using find_object_2d** and mapping of detected markers  
-- Testing in both **simulation and real TurtleBot hardware**  
-- Coordinating code integration and debugging across the group  
+The system integrated multiple core robotics components into a unified pipeline:
 
-The project repository [Turtlebot Obstacle Avoidance](https://github.com/SaraCooperAmun/Turtlebot_Rescue_Mission). 
+- SLAM for environment mapping  
+- AMCL-based localization for pose estimation  
+- move_base for autonomous navigation  
+- find_object_2d for visual object detection  
+- Mapping of detected objects into the global representation  
+
+The combination of these modules enabled the robot to navigate autonomously while detecting and localizing objects in both simulation and real-world experiments.
 
 ---
-### Project Videos
+
+### Contributions
+
+- Integration of SLAM, AMCL, and move_base for autonomous navigation  
+- Implementation of object detection using find_object_2d  
+- Mapping detected objects into the global environment representation  
+- Testing and validation in both simulation (Gazebo) and real TurtleBot hardware  
+- Support in system integration and debugging across the group  
+
+---
+
+### Demonstration
 
 #### Simulation
 
@@ -55,10 +66,19 @@ The project repository [Turtlebot Obstacle Avoidance](https://github.com/SaraCoo
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen>
 </iframe>
+
+---
+
+### Resources
+
+- Repository: https://github.com/SaraCooperAmun/Turtlebot_Rescue_Mission  
+
 ---
 
 ### Technical Highlights
-- Autonomous navigation in pre-built maps using **AMCL + move_base**  
-- Integration with **find_object_2d** for marker recognition  
-- Real-time mapping and object localization in both **simulation and hardware**  
-- Demonstrates **rescue-oriented applications** for autonomous mobile robots  
+
+- SLAM-based mapping for environment representation  
+- AMCL + move_base for autonomous navigation  
+- Visual object detection using find_object_2d  
+- Integration of perception and navigation for rescue-style tasks  
+- Validation in simulation and real robot experiments  
