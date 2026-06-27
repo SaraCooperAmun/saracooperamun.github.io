@@ -14,4 +14,4 @@ A practical framework for improving the clarity, transparency, and replicability
 
 ## Award: Theory Paper Honorable Mention
 
-<img src="/files/hri_rush_checklist.jpg" width="400" height="300" />
+![Honorable Mention certificate](/images/hri_rush_checklist.jpg)

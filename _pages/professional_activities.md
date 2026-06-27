@@ -9,10 +9,11 @@ This section highlights **workshops and conference activities that I have organi
 ---
 
 ### HRI 2026 Industry Chair – Industry Day
+
 **Location:** HRI 2026, Edinburgh, United Kingdom  
 **Role:** Industry Chair  
 
-![HRI 2026 Industry Day](/images/sara_industry_day.jpg){: width="400px" }
+![HRI 2026 Industry Day](/images/sara_industry_day.jpeg){: width="400px" }
 
 Returning this time as part of the Organizing Committee and serving as **Industry Chair** for HRI 2026 was a particularly meaningful experience, aligning closely with my long-term goal of strengthening the connection between academia and industry in human–robot interaction.
 
@@ -26,7 +27,7 @@ The day included:
 - Panel discussions on real-world challenges in deployment and adoption  
 - Poster sessions and open discussions fostering exchange between academia and industry  
 
-![HRI 2026 Industry Poster Session](/images/industry_poster_session.jpeg){: width="400px" }
+![HRI 2026 Industry Poster Session](/images/industry_poster_session.jpg){: width="400px" }
 
 These sessions enabled rich discussions between researchers and practitioners, creating new connections and perspectives on real-world HRI systems.
 
@@ -41,7 +42,7 @@ I am hopeful that this is only the beginning of closer and more impactful collab
 **Role:** Co-organizer  
 **Link:** https://dl.acm.org/doi/10.1145/3776734.3788830  
 
-![Failing Forward Workshop HRI 2026](/images/failing_forward_hri.jpg){: width="400px" }
+![Failing Forward Workshop HRI 2026](/images/failing_forward_hri_2026.jpg){: width="400px" }
 
 This workshop was a continuation of our previous RO-MAN 2025 workshop held in Eindhoven on real-world human–robot interaction, and focused on the increasing importance of understanding **failures, unexpected outcomes, and deployment challenges** as robotic systems move from laboratory settings into real-world environments.
 
