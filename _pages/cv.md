@@ -9,6 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+## Download CV
+
+<a href="{{ '/files/sara_cooper_cv.pdf' | relative_url }}" target="_blank" class="btn btn--primary">
+Download PDF CV
+</a>
+
 ## About me
 
 I am a robotics and biomedical engineer specialising in **social robotics for healthcare and assistive applications**. My work focuses on deploying social robots in real-world scenarios, combining **robotics software development, research, and project coordination** across industry and academia in Spain, Japan, and the UK.
