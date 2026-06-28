@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+#site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Sara Cooper / About Me"
 title_separator          : "-"
 name                     : &name "Sara Cooper"
@@ -16,8 +16,10 @@ description              : &description "Sara Cooper's academic portfolio"   # U
 url                      : https://saracooperamun.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+#repository               : "academicpages/academicpages.github.io"
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 
+minimal_mistakes_skin: "default"
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
@@ -233,9 +235,6 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  professional_activities:
-    output: true
-    permalink: /:collection/:path/
 
 # These settings control how pages and collections are included in the site
 defaults:
@@ -315,6 +314,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
+  - jekyll-include-cache
 
 # Mimic GitHub Pages with --safe
 whitelist:
