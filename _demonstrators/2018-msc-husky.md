@@ -62,5 +62,4 @@ The system demonstrated coordinated execution of navigation and manipulation tas
 
 ### Recognition
 
-Featured in Heriot-Watt University student profile:
-https://www.hw.ac.uk/study/why-study-at-heriot-watt/meet-our-students/postgraduate-students/sara-cooper
+Featured in [Heriot-Watt University student profile:](https://www.hw.ac.uk/study/why-study-at-heriot-watt/meet-our-students/postgraduate-students/sara-cooper)

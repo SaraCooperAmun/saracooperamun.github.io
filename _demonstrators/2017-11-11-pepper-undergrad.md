@@ -83,7 +83,7 @@ Preliminary user tests with older adults showed positive engagement, particularl
 ### Resources
 
 - Code repository: https://github.com/SaraCooperAmun/cognitive-rehab-pepper  
-- Project manuscript: /files/cognitive_rehab.pdf  
+- [Project manuscript](/files/cognitive_rehab.pdf)
 
 ---
 
